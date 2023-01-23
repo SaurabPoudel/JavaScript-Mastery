@@ -52,3 +52,5 @@ printUser=({name,age})=>{
 }
 
 printUser(personOne)
+
+// Checking git config is done correctly or not
